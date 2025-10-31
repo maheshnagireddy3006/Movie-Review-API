@@ -1,0 +1,23 @@
+{
+  "name": "advanced-movie-review-api",
+  "version": "1.0.0",
+  "description": "Secure, robust backend API for managing movie reviews",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "movies",
+    "reviews",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}

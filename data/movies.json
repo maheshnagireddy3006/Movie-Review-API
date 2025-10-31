@@ -1,0 +1,17 @@
+[
+  {
+    "id": "aafb3bc6-ba4f-4694-8206-b87e922b708e",
+    "movieTitle": "Inception",
+    "director": "Christopher Nolan",
+    "reviewText": "Mind-bending heist with stunning visuals.",
+    "rating": 9,
+    "tags": [
+      "sci-fi",
+      "thriller",
+      "heist"
+    ],
+    "userId": "user123",
+    "createdAt": "2025-10-31T05:57:18.024Z",
+    "updatedAt": "2025-10-31T05:57:18.024Z"
+  }
+]
