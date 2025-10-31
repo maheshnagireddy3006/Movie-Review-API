@@ -143,7 +143,7 @@ Responses:
 
 ### API URL
 
-Include your Render base URL here after deployment (e.g., `https://your-service.onrender.com`).
+Include your Render base URL here after deployment (e.g., `https://movie-review-api-9dol.onrender.com/`).
 
 ## Submission Notes
 
